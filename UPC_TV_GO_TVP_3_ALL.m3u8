@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="05" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Białystok
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Bialystok%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Bialystok_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="06" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Bydgoszcz
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Bydgoszcz%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Bydgoszcz_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="07" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Gdańsk
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Gdansk%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Gdansk_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="08" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Gorzów Wielkopolski
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Gorzow%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Gorzow_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="09" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Katowice
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Katowice%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Katowice_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="10" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Kielce
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Kielce%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Kielce_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="11" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Kraków
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Krakow%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Krakow_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="12" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Lublin
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Lublin%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Lublin_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="13" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Łódź
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Lodz%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Lodz_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="14" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Olsztyn
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp7-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Olsztyn%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Olsztyn_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="15" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Opole
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Opole%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Opole_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="16" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Poznań
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Poznan%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Poznan_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="17" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Rzeszów
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Rzeszow%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Rzeszow_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="18" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Szczecin
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Szczecin%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Szczecin_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="19" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Warszawa
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Warszawa%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Warszawa_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
+#EXTINF:-1  tvg-id="20" group-title="UPC_TV_GO_TVP_3_ALL",TVP 3 Wrocław
+plugin://plugin.video.horizongo/?mode=playchan&amp;url=http%3A%2F%2Fwp8-live-pl-prod.prod.cdn.dmdsdp.com%2Fdash%2FTVP_Wroclaw%2Fmanifest.mpd%2A%7C%2Aurn%3Aorion%3Amedia%3Astd%3Algi-pl-prod-master%3ATVP_Wroclaw_ORION_Orion-DASH&amp;page=1&amp;moviescount=0&amp
